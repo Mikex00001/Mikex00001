@@ -10,6 +10,7 @@
   </div>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-luis-b63670271/)
+<a href="https://www.linkedin.com/in/maicon-luis-b63670271/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
 
