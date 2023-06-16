@@ -3,9 +3,6 @@
 •📚 Estudante: Front-End Development.<br>
 •💻 Voluntário na função de Desenvolvedora Front-End em Instituto Berna Almeida.
 
-![Mikex GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikex00001&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikex00001&hide_progress=true)
-
 <div>
     <a href="https://github.com/Mikex00001">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike00001&layout=compact&langs_count=7&theme=tokyonight"/>
