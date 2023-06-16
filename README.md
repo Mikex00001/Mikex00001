@@ -6,5 +6,11 @@
 ![Mikex GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikex00001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikex00001&hide_progress=true)
 
+<div>
+    <a href="https://github.com/IsadoraVanderlan">
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraVanderlan&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=IsadoraVanderlan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-luis-b63670271/)
 
